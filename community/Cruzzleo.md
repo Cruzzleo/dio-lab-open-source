@@ -1,6 +1,16 @@
 # Cruzzleo
 
-Olá, me chamo Leandro cruz, Sou novo na área da TI, recentemente parei minha graduação em ed. física para fazer cursos voltado a programação, desejo seguir carreira como **Desenvolvedor Web front end**, tenho uma jornada e uma trilha para seguir sei que irei conseguir junto com a [dio](https://www.dio.me/).
+📚 Ex-Estudante de Educação Física;
+
+🌐 Futuro Desenvolvedor Web Front-end
+
+🌍 Inglês B2
+
+👋 Olá! **Sou Leandro**, um ex-estudante de Educação Física, buscando novos caminhos e oportunidades. Minha jornada acadêmica me proporcionou uma compreensão profunda do bem-estar físico e mental, aspectos que continuo valorizando.
+
+📚 Além dos estudos em Educação Física, estou embarcando em uma nova jornada no mundo da tecnologia. Concluí cursos de Git e GitHub e estou determinado a me tornar um desenvolvedor web front-end.
+
+💼 Estou aberto a oportunidades de aprendizado e colaboração no desenvolvimento web front-end, onde pretendo unir minha paixão pela tecnologia com minha dedicação ao bem-estar das pessoas.
 
 ### Conecte-se comigo
 
